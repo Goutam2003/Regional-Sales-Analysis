@@ -26,3 +26,6 @@ data-backed, visually clear, and decision-oriented.
 
 🔗 Excited to take this experience into real-world analytics roles where
 data isn’t just viewed — it’s understood and acted upon.
+
+Just a front page Screen Shot ->
+![Dahboard Preview](https://github.com/Goutam2003/Regional-Sales-Analysis/blob/main/Screenshot%202025-07-07%20220536.png)
